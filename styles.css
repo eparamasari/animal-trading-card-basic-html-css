@@ -1,0 +1,49 @@
+/* add your CSS here */
+img {
+  width: 300px;
+  height: 200px;
+  margin: 10px 0 15px 0;
+}
+
+.facts {
+  font-style: italic;
+}
+
+span {
+  font-weight: bold;
+}
+
+ul {
+  font-size: 0.8em;
+  list-style-type: none;
+}
+
+li {
+  margin-left: -40px;
+}
+
+.container {
+  padding: 10px;
+  border: 1px solid grey;
+  border-radius: 5pt;
+}
+
+.one {
+  width: 302px;
+  background-color: lightskyblue;
+  box-shadow: 10px 10px 5px grey;
+}
+
+.two {
+  width: 279px;
+}
+
+h3 {
+  font-family: Roboto, sans-serif;
+  text-align: center;
+}
+
+p,
+ul {
+  font-family: "Roboto condensed", sans-serif;
+}
